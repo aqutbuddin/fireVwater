@@ -1,0 +1,9 @@
+12
+TODO: 
+1) Update the sim count number above to be the exact
+number of simulations needed to completely eliminate fire.
+2) I initially started at 100 simulations, then moved my way down
+going from 100->75->50->25->15->10. I realized my number was somewhere 
+between 10-15 simulaitions, so I went to 13, moved down to 11 and 12, 
+and 12 was the correct number.
+
